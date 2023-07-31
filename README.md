@@ -42,17 +42,17 @@ JSP 프로젝트
 - 스터디 카페 등록
 - 스터디 카페 관리(조회,검색,정렬,삭제)
 
-#### 스터디 그룹 관리 페이지 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 스터디 그룹 관리 페이지 <a href="https://github.com/dafssdf/JSP_Portfoilo/wiki/%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
 - 스터디 그룹 관리 차트
 - 스터디 그룹(조회,검색,정렬,삭제)
 
-#### 게시물 관리 페이지 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%EC%A0%9C%ED%92%88-%EC%83%81%EC%84%B8-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
+#### 게시물 관리 페이지 <a href="https://github.com/dafssdf/JSP_Portfoilo/wiki/%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EA%B4%80%EB%A6%AC-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
 - 게시물 관리 차트
 - 게시물 관리(조회,검색,정렬,삭제)
 
-#### FAQ 페이지 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### FAQ 페이지 <a href="https://github.com/dafssdf/JSP_Portfoilo/wiki/FAQ-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
 - FAQ 관리(등록,수정,삭제)
 
-#### STUDYMATE 메인 페이지 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 메인 페이지 <a href="https://github.com/dafssdf/JSP_Portfoilo/wiki/%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
 - 메인 정보 출력(카페,그룹,게시물)
 
