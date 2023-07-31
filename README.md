@@ -27,8 +27,9 @@ JSP 프로젝트
 - **Database** : MySQL
 - **ORM** : Mybatis
 
-### 🧾MONTHLY 포트폴리오(PDF)
-[montly포트폴리오용.pdf](https://github.com/dafssdf/Spring_Portfoilo/files/12191002/montly.pdf)
+### 🧾STUDYMATE 포트폴리오(PDF)
+[스터디메이트_포트폴리오.zip](https://github.com/dafssdf/JSP_Portfoilo/files/12211459/_.zip)
+
 
 
 ## 📌 내가 맡은 기능 - 관리자 페이지
