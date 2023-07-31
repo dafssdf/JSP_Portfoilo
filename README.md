@@ -57,3 +57,4 @@ JSP 프로젝트
 #### 메인 페이지 <a href="https://github.com/dafssdf/JSP_Portfoilo/wiki/%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
 - 메인 정보 출력(카페,그룹,게시물)
 
+### 내가 맡은 페이지 모음 <a href="https://github.com/dafssdf/JSP_Portfoilo/wiki/%EB%82%B4%EA%B0%80-%EB%A7%A1%EC%9D%80-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B7%B0" >상세보기 - WIKI 이동</a>
